@@ -1,0 +1,5 @@
+Fictional fallback dataset for testing only.
+The program currently uses these fallback USD-base values if the user confirms sample mode:
+USD=1.0, EUR=0.90, GBP=0.765, INR=83.0, JPY=150.0
+Assumed fee per conversion=0.10%; assumed spread per conversion=0.10%.
+Not live market data.
